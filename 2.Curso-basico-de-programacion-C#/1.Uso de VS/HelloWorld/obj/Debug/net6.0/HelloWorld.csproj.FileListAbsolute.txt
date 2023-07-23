@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Jose\Desktop\2.Curso-basico-de-programacion-C#\1.Uso de VS\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
