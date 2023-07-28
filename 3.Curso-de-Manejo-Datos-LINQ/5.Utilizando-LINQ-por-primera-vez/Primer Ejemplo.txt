@@ -1,0 +1,13 @@
+using System;
+using System.Linq;
+					
+public class Program
+{
+	public static void Main()
+	{
+		var frutas = new string[] {"Sandia","Fresa","Mango","Mango de azucar","Uva","Mango Tomy"};
+        var MangoList = frutas.Where(p=> p.StartsWith("Mango")).ToList();
+        MangoList.ForEach(p=> Console.WriteLine(p));
+        // Console.WriteLine ("Hello Mono World JCSivo");
+	}
+}

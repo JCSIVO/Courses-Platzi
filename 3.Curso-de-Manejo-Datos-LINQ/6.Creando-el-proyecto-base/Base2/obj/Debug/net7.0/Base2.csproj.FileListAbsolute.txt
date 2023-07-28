@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\bin\Debug\net7.0\Base2.exe
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\bin\Debug\net7.0\Base2.deps.json
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\bin\Debug\net7.0\Base2.runtimeconfig.json
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\bin\Debug\net7.0\Base2.dll
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\bin\Debug\net7.0\Base2.pdb
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.dll
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\refint\Base2.dll
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.pdb
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\Base2.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Platzi\Ruta VB\4.Curso de Manejo de Datos en C# con LINQ\6.Creando el proyecto base\Base2\obj\Debug\net7.0\ref\Base2.dll
