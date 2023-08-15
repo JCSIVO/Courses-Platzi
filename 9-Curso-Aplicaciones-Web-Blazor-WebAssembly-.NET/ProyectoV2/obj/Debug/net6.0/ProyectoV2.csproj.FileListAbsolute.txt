@@ -1,0 +1,6 @@
+C:\Users\Jose\Desktop\Platzi\Ruta BackEnd con C# y .Net\6.Curso de Aplicaciones Web con Blazor WebAssembly y .NET\ProyectoV2\obj\Debug\net6.0\ProyectoV2.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Platzi\Ruta BackEnd con C# y .Net\6.Curso de Aplicaciones Web con Blazor WebAssembly y .NET\ProyectoV2\obj\Debug\net6.0\ProyectoV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Platzi\Ruta BackEnd con C# y .Net\6.Curso de Aplicaciones Web con Blazor WebAssembly y .NET\ProyectoV2\obj\Debug\net6.0\ProyectoV2.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Platzi\Ruta BackEnd con C# y .Net\6.Curso de Aplicaciones Web con Blazor WebAssembly y .NET\ProyectoV2\obj\Debug\net6.0\ProyectoV2.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Platzi\Ruta BackEnd con C# y .Net\6.Curso de Aplicaciones Web con Blazor WebAssembly y .NET\ProyectoV2\obj\Debug\net6.0\ProyectoV2.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Platzi\Ruta BackEnd con C# y .Net\6.Curso de Aplicaciones Web con Blazor WebAssembly y .NET\ProyectoV2\obj\Debug\net6.0\ProyectoV2.MvcApplicationPartsAssemblyInfo.cache
