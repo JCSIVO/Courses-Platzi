@@ -8,7 +8,7 @@ namespace Liskov
 
         public override decimal CalculateSalary()
         {
-            decimal hourValue = IsFullTime = 40;
+            decimal hourValue = 40;
             return hourValue * (HoursWorked );
         }
     }

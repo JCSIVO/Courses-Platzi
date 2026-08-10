@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\bin\Debug\net8.0\CicloFor.exe
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\bin\Debug\net8.0\CicloFor.deps.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\bin\Debug\net8.0\CicloFor.runtimeconfig.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\bin\Debug\net8.0\CicloFor.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\bin\Debug\net8.0\CicloFor.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.sourcelink.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\refint\CicloFor.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\CicloFor.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\18.Ciclos-For\CicloFor\obj\Debug\net8.0\ref\CicloFor.dll

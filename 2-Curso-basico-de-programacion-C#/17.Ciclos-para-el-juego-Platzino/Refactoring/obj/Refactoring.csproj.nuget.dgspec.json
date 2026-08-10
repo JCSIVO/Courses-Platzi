@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose\\Desktop\\2.Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj": {}
+    "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\2-Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose\\Desktop\\2.Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj": {
+    "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\2-Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\Desktop\\2.Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\2-Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj",
         "projectName": "Refactoring",
-        "projectPath": "C:\\Users\\Jose\\Desktop\\2.Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj",
+        "projectPath": "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\2-Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\Refactoring.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\Desktop\\2.Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\2-Curso-basico-de-programacion-C#\\17.Ciclos-para-el-juego-Platzino\\Refactoring\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +38,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

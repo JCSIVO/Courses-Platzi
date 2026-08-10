@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W6f8M/gIoiUwhQZy886R2FXF6Qu0+H3Iyslgp7CrXbSmuHpEylP5GNV7OLgbGXsLUL0QGp+dg/FB6zC0HpDKYw==",
+  "dgSpecHash": "3jty1tQBhvc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose\\Desktop\\Platzi\\Ruta BackEnd con C# y .Net\\2.Curso de Fundamentos de .NET\\Proyecto\\Proyecto.csproj",
+  "projectFilePath": "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\5-Curso-Fundamentos-.NET\\Proyecto\\Proyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Jose\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

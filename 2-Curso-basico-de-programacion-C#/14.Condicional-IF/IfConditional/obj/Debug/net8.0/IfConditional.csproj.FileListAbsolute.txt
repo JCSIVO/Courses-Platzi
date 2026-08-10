@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\bin\Debug\net8.0\IfConditional.exe
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\bin\Debug\net8.0\IfConditional.deps.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\bin\Debug\net8.0\IfConditional.runtimeconfig.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\bin\Debug\net8.0\IfConditional.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\bin\Debug\net8.0\IfConditional.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.sourcelink.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\refint\IfConditional.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\IfConditional.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\14.Condicional-IF\IfConditional\obj\Debug\net8.0\ref\IfConditional.dll

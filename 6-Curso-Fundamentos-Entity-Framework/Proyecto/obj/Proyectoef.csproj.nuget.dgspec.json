@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose\\Desktop\\Platzi\\Ruta BackEnd con C# y .Net\\3.Curso de Fundamentos de Entity Framework\\Proyecto\\Proyectoef.csproj": {}
+    "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\6-Curso-Fundamentos-Entity-Framework\\Proyecto\\Proyectoef.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose\\Desktop\\Platzi\\Ruta BackEnd con C# y .Net\\3.Curso de Fundamentos de Entity Framework\\Proyecto\\Proyectoef.csproj": {
+    "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\6-Curso-Fundamentos-Entity-Framework\\Proyecto\\Proyectoef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\Desktop\\Platzi\\Ruta BackEnd con C# y .Net\\3.Curso de Fundamentos de Entity Framework\\Proyecto\\Proyectoef.csproj",
+        "projectUniqueName": "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\6-Curso-Fundamentos-Entity-Framework\\Proyecto\\Proyectoef.csproj",
         "projectName": "Proyectoef",
-        "projectPath": "C:\\Users\\Jose\\Desktop\\Platzi\\Ruta BackEnd con C# y .Net\\3.Curso de Fundamentos de Entity Framework\\Proyecto\\Proyectoef.csproj",
+        "projectPath": "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\6-Curso-Fundamentos-Entity-Framework\\Proyecto\\Proyectoef.csproj",
         "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\Desktop\\Platzi\\Ruta BackEnd con C# y .Net\\3.Curso de Fundamentos de Entity Framework\\Proyecto\\obj\\",
+        "outputPath": "C:\\Users\\Jose\\Desktop\\Proyectos GitHub\\Cursos-Platzi\\Courses-Platzi\\6-Curso-Fundamentos-Entity-Framework\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,33 +38,39 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[8.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[8.0.14, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[8.0.11, )"
             }
           },
           "imports": [
@@ -82,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

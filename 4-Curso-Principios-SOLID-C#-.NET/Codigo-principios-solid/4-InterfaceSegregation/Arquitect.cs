@@ -21,6 +21,11 @@ namespace InterfaceSegregation
         }
 
 
+        public void Design()
+        {
+            Console.WriteLine("I'm designing new futures");
+        }
+
         public void Develop()
         {
             Console.WriteLine("I'm developing the functionalities required");

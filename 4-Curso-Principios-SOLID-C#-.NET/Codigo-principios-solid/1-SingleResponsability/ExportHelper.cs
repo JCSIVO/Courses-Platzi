@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace SingleResponsability
@@ -15,8 +16,7 @@ namespace SingleResponsability
             {
                 sb.AppendLine($"{item.Id};{item.Fullname};{string.Join("|", item.Grades)}");
             }
-            System.IO.File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDo
-
+            System.IO.File.WriteAllText(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "students.csv"), csv);
         }
     }
 }

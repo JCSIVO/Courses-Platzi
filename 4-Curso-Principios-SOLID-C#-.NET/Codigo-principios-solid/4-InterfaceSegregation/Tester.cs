@@ -20,5 +20,10 @@ namespace InterfaceSegregation
         {
             throw new ArgumentException();
         }
+
+        public void Design()
+        {
+            throw new ArgumentException();
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\bin\Debug\net8.0\Curso-Linq.exe
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\bin\Debug\net8.0\Curso-Linq.deps.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\bin\Debug\net8.0\Curso-Linq.runtimeconfig.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\bin\Debug\net8.0\Curso-Linq.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\bin\Debug\net8.0\Curso-Linq.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.sourcelink.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\refint\Curso-Linq.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\Curso-Linq.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\3-Curso-de-Manejo-Datos-LINQ\6.Creando-el-proyecto-base\Base\Curso-Linq\obj\Debug\net8.0\ref\Curso-Linq.dll

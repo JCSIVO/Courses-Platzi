@@ -1,4 +1,4 @@
-namespace ProyectoV2;
+namespace ProyectoV2.Service;
 
 public class Category
 {

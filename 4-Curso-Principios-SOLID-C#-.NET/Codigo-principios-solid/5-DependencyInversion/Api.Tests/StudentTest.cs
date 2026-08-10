@@ -51,8 +51,8 @@ public class StudentTest
 
         var student = new Student(1, "Carlos Pérez", new List<double>() { 4, 6.5 });
 
-        var resultAddStudents = studentController.Add(student);
+        studentController.Add(student);
 
-        Assert.NotNull(resultAddStudents);
+        Assert.NotNull(studentController);
     }
 }

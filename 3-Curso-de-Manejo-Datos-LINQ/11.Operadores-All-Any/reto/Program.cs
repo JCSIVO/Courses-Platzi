@@ -92,7 +92,7 @@ void ImprimirGrupos(IEnumerable<IGrouping<int, Book>> listadelibros)
     foreach (var grupo in listadelibros)
     {
         Console.WriteLine("");
-        Console.WriteLine($"Grupo: { grupo.Key }")
+        Console.WriteLine($"Grupo: { grupo.Key }");
         Console.WriteLine("{0,-60} {1, 15} {2, 15}\n", "Titulo", "N. Paginas", "Fecha publicacion");
         foreach(var item in grupo)
         {

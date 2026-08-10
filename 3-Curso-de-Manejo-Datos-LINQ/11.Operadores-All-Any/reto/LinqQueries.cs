@@ -86,17 +86,7 @@ public class LinqQueries
             .Select(p => new Book() { Title = p.Title, PageCount = p.PageCount });
     }
 
-    public int CantidadDeLibrosEntre200y500Pag() // No código limpio
-    {
-        return librosCollection.Where(p => p.PageCount >= 200 && p.PageCount <= 500).Count();
-    }
-
-    public long CantidadDeLibrosEntre200y500Pag() // No código limpio
-    {
-        return librosCollection.Where(p => p.PageCount >= 200 && p.PageCount <= 500).LongCount();
-    }
-
-    public long CantidadDeLibrosEntre200y500Pag()
+public long CantidadDeLibrosEntre200y500Pag() // No cï¿½digo limpio
     {
         return librosCollection.LongCount(p => p.PageCount >= 200 && p.PageCount <= 500);
 
@@ -133,7 +123,7 @@ public class LinqQueries
         {
             if (TitulosLibros != string.Empty)
             {
-                TitulosLibros + = " - " next.Title;
+                TitulosLibros += " - " + next.Title;
             }
             else
             {
@@ -150,7 +140,7 @@ public class LinqQueries
 
     public double PromedioDelNumeroPaginasQueTienenLosLibros()
     {
-        return booksCollection.Where(x => x.PageCount > 0).Average(p => p.PageCount);
+        return librosCollection.Where(x => x.PageCount > 0).Average(p => p.PageCount);
     }
 
     public IEnumerable<IGrouping<int, Book>> LibrosDespuesDel200AgrupadosPorAno()

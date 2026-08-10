@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\bin\Debug\net8.0\Buclewhile.exe
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\bin\Debug\net8.0\Buclewhile.deps.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\bin\Debug\net8.0\Buclewhile.runtimeconfig.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\bin\Debug\net8.0\Buclewhile.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\bin\Debug\net8.0\Buclewhile.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.sourcelink.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\refint\Buclewhile.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\Buclewhile.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\16.Ciclos While-Do-While\Buclewhile\obj\Debug\net8.0\ref\Buclewhile.dll

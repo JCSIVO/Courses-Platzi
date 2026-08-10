@@ -55,7 +55,7 @@ else
 
         await productService.Delete(product.Id);
 
-        toastService.ShowSuccess("Producto eliminado", "Producto eliminado");
+        toastService.ShowSuccess("Producto eliminado");
 
         await GetProducts();
     }

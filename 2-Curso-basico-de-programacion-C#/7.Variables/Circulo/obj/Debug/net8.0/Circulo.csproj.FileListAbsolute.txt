@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\bin\Debug\net8.0\Circulo.exe
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\bin\Debug\net8.0\Circulo.deps.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\bin\Debug\net8.0\Circulo.runtimeconfig.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\bin\Debug\net8.0\Circulo.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\bin\Debug\net8.0\Circulo.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.sourcelink.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\refint\Circulo.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\Circulo.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\7.Variables\Circulo\obj\Debug\net8.0\ref\Circulo.dll

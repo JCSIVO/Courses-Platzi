@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\bin\Debug\net8.0\stringEnCSharp.exe
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\bin\Debug\net8.0\stringEnCSharp.deps.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\bin\Debug\net8.0\stringEnCSharp.runtimeconfig.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\bin\Debug\net8.0\stringEnCSharp.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\bin\Debug\net8.0\stringEnCSharp.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.AssemblyInfo.cs
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.sourcelink.json
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\refint\stringEnCSharp.dll
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.pdb
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\stringEnCSharp.genruntimeconfig.cache
+C:\Users\Jose\Desktop\Proyectos GitHub\Cursos-Platzi\Courses-Platzi\2-Curso-basico-de-programacion-C#\13.Strings-en-C#\stringEnCSharp\obj\Debug\net8.0\ref\stringEnCSharp.dll

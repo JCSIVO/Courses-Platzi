@@ -7,7 +7,7 @@ namespace OpenClose
         public string Fullname { get; set; }
         public int HoursWorked { get; set; }
 
-        public abstract deciaml CalculateSalaryMonthly();
+        public abstract decimal CalculateSalaryMonthly();
 
     }
 
